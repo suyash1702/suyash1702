@@ -79,10 +79,3 @@ I'm a Computer Engineering student who is passionate about Web Development,Data 
   <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
        alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
-
-> Contribution Graph
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
