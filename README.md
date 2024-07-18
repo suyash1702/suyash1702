@@ -29,8 +29,7 @@ I'm a Computer Engineering student who is passionate about Web Development,Data 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -65,17 +64,10 @@ I'm a Computer Engineering student who is passionate about Web Development,Data 
 
 ### 📊 Profile stats
 
-[![Suyash Mungase's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash1702&show_icons=true&locale=en&layout=compact" alt="suyash1702" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="suyash1702" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash1702&show_icons=true&locale=en" alt="suyash1702" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyash1702&" alt="suyash1702" /></p>
 
 ---
-
-### 📊 Profile contribution
-
-> 3D Contrib
-
-<div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
