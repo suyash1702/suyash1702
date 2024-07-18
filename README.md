@@ -1,34 +1,3 @@
-![image](https://github.com/user-attachments/assets/0c4b8ca1-3b0e-4db3-908c-532cd648de56)
-
-Hey there! I'm Suyash Mungase
-![image](https://github.com/user-attachments/assets/71cbbee6-8e2e-4645-95f9-1197f721ad98)About Me
-I'm a Computer Engineering student who is passionate about Web Development,Data science, AI and Machine Learning.
-
-🎓   I’m currently a senior student at Pravara Universities Computer Department.
-🌱   Learning more about Web Development, Data Science, Machine Learning, Software Development, Software Testing and Computer Organization.
-How to reach me🤝
-
-![image](https://github.com/user-attachments/assets/f19e814e-1d9d-485b-9961-5b5da92d36d4)
-![image](https://github.com/user-attachments/assets/b3baff6e-b340-4716-81fc-5b2c9d878add)
-![image](https://github.com/user-attachments/assets/e0c8eb7b-b111-4998-a1a0-aaee11a887c0)
-
-
-
-
- 🛠️ Languages and Tools:
-💻   HTML, CSS, JAVA, JS, REACT JS, NODE JS, ANGULAR JS, SQL, MYSQL
-
-⚙️   Data Science, Ml, SEO
-
-🔧   Visual Studio Code
-
-
-Problem Solving
-![image](https://github.com/user-attachments/assets/693353a1-7f7b-4384-b8d0-0620441ca034)
-![Uploading image.png…]()
-
-
-
 <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 
 <h2> Hey there! I'm Suyash Mungase <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
